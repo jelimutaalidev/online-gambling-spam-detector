@@ -2,4 +2,4 @@ streamlit
 torch
 transformers
 sacrebleu
-sentencepiece
+sentencepiece==0.1.99
